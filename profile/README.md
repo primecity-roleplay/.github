@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="300" src="">
+  <img width="1000" height="300" src="https://github.com/primecity-roleplay/.github/assets/72443203/6af911cd-7e7d-4cc6-abcc-91d42d9157f7">
 </p>
 
 ## 👋 About
